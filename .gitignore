@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store   # macOS
+Thumbs.db   # Windows
+
+# dist
+dist/
+
+# uploads
+uploads/
+
+# package lock
+package-lock.json
